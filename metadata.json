@@ -1,0 +1,6 @@
+{
+  "name": "Utkal Roots - Organic Food from Odisha",
+  "description": "Pure, chemical-free organic black rice and Indrayani-style aromatic rice grown in Odisha soil with homemade compost and neem pest care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
